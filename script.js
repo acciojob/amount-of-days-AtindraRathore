@@ -5,6 +5,6 @@ const year = function daysOfAYear(2022){
 		return 366;
 	}
 	else{
-		365;
+		return 365;
 	}
 }
